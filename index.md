@@ -35,8 +35,11 @@ void foo() {
 because it improves the code readability for me. The opening and closing brackets line up very cleanly when the opening bracket is on a new line.
 
 ## Favorite References
+### Stackoverflow
 [![https://stackoverflow.com](images\stack-overflow.png)](https://stackoverflow.com)
+### Tutorialspoint
 [![https://www.tutorialspoint.com](images\tutorials_point.jpg)](https://www.tutorialspoint.com)
+### Geeksforgeeks
 [![https://www.geeksforgeeks.org](images\1200px-GeeksforGeeks.svg.png)](https://www.geeksforgeeks.org)
 
-[Back to Top](https://github.com/cleverever/GitHub-Pages/blob/edited-with-VSCode/index.md#hey-im-everett-craw)
+[Back to Top](https://cleverever.github.io/GitHub-Pages/#hey-im-everett-craw)
