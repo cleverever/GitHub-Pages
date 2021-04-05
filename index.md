@@ -42,4 +42,4 @@ because it improves the code readability for me. The opening and closing bracket
 ### Geeksforgeeks
 [![https://www.geeksforgeeks.org](images\1200px-GeeksforGeeks.svg.png)](https://www.geeksforgeeks.org)
 
-[Back to Top](https://cleverever.github.io/GitHub-Pages/#hey-im-everett-craw)
+[Back to Top](#hey-im-everett-craw)
